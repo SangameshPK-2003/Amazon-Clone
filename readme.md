@@ -32,4 +32,4 @@ This project serves as a hands-on exercise for web developers to enhance their H
    - Replicates the footer section with links to different pages and legal information.
 
 ### Demo 
-   - To see demo of this project, click here()
+   - To see demo of this project, simply visit [Amazon-Clone](https://sangameshpk-2003.github.io/Amazon-Clone/)
