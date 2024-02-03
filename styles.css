@@ -215,7 +215,7 @@ footer{
 .foot-panel2{
     background-color: #222f3d;
     color: white;
-    height: 500px;
+    height: 350px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -223,11 +223,18 @@ footer{
 ul{
     margin-top: 25px;
 }
+ul p{
+    font-weight: 700;
+}
 ul a{
     display: block;
-    font-size: 0.85rem;
+    font-size: 0.90rem;
     margin-top: 10px;
     color: #dddddd;
+    text-decoration: none;
+}
+ul a:hover{
+    text-decoration: underline;
 }
 .foot-panel3{
     background-color: #222f3d;
@@ -260,3 +267,9 @@ ul a{
 .copyright{
     padding-top: 5px;
 }
+
+
+
+
+
+
