@@ -193,8 +193,13 @@ span{
     margin-right: 1rem;
 }
 
-.box-content p{
+.box-content p a{
     color: #007185;
+    text-decoration: none;
+}
+
+.box-content p a:hover{
+    text-decoration: underline;
 }
 
 /* footer */
