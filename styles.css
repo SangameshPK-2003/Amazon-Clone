@@ -164,6 +164,10 @@ span{
     text-decoration: none;
 }
 
+.hero-msg a:hover{
+    text-decoration: underline;
+}
+
 /* shop-section */
 
 .shop-section{
