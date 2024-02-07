@@ -135,6 +135,9 @@ span{
     font-weight: 600;
     border: none;
 }
+.fresh-select option{
+    color: black;
+}
 
 .panel-opts{
     width: 70%;
