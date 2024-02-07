@@ -126,6 +126,15 @@ span{
     font-size: 0.75rem;
     font-weight: 600;
 }
+.fresh-select{
+    display: inline;
+    background-color: transparent;
+    width: 55px;
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border: none;
+}
 
 .panel-opts{
     width: 70%;
