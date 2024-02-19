@@ -1,5 +1,7 @@
 # Amazon Clone Project
-
+### Demo 
+   - To see demo of this project, simply visit [Amazon-Clone](https://sangameshpk-2003.github.io/Amazon-Clone/)
+     
 ## Introduction
 
 Welcome to the Amazon Clone project! This is a web development project that replicates the essential features and user interface of the popular e-commerce platform, Amazon. Using HTML and CSS, this project aims to provide a simplified yet functional version of Amazon for learning and practice purposes.
@@ -31,5 +33,4 @@ This project serves as a hands-on exercise for web developers to enhance their H
 ### 6. Footer
    - Replicates the footer section with links to different pages and legal information.
 
-### Demo 
-   - To see demo of this project, simply visit [Amazon-Clone](https://sangameshpk-2003.github.io/Amazon-Clone/)
+
